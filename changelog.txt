@@ -1,0 +1,8 @@
+---------------------------------------------------------------------------------------------------
+Version: 2.0.0
+Date: 2025-01-14
+  Changes:
+    - Added Factorio 2.0 compatibility
+    - Added startup settings for volume and lab playback limit
+    - Added Krastorio2 lab compatibility
+    - Added Space Exploration lab compatibility
