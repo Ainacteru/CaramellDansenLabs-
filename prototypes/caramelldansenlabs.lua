@@ -7,18 +7,18 @@ data.raw["lab"]["lab"].working_sound = {
 		volume = 0.01 * 0.8 * settingVolume,
 		preload = true
 	},
-	persistent = true,
+	persistent = false,
 	use_doppler_shift = false, 
 
 	idle_sound = { filename = "__base__/sound/idle1.ogg", volume = 0.6 },
 
 	apparent_volume = 2.5,
-    audible_distance_modifier = 0.2,
+    audible_distance_modifier = 500,
 
 	fade_in_ticks = 5,
 	fade_out_ticks = 5,
 
-	max_sounds_per_type = 1,  
+	max_sounds_per_prototype = 1,
 }
 
 if mods["Krastorio2"] then
