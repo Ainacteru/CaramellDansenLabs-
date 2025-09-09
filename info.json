@@ -1,9 +1,9 @@
 {
   "name": "CaramelldansenLabs+",
-  "version": "2.0.0",
+  "version": "1.0.0",
   "title": "Caramelldansen Labs+",
   "author": "me!",
-  "factorio_version": "2.0",
+  "factorio_version": "1.0",
   "dependencies": ["base"],
-  "description": "Turns your Research Labs into a Rave with a touch of Caramelldansen"
+  "description": "Clicking Labs Now Shows What They're Really Up To"
 }
