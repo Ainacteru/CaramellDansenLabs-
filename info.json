@@ -1,8 +1,8 @@
 {
-  "name": "CaramelldansenLabs",
+  "name": "CaramelldansenLabs+",
   "version": "2.0.0",
-  "title": "Caramelldansen Labs",
-  "author": "Flux",
+  "title": "Caramelldansen Labs+",
+  "author": "me!",
   "factorio_version": "2.0",
   "dependencies": ["base"],
   "description": "Turns your Research Labs into a Rave with a touch of Caramelldansen"
